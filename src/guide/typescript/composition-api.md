@@ -165,7 +165,7 @@ export default defineComponent({
 
 ## 为 `ref()` 标注类型 {#typing-ref}
 
-ref 会根据初始化时的值推导其类型：
+ref 会根据初始化时的值推导其类型123123：
 
 ```ts
 import { ref } from 'vue'
